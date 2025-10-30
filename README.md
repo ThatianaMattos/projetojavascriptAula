@@ -86,6 +86,6 @@ No terminal, execute **nesta ordem**:
 git add .
 git commit -m "Adicionando README e arquivos das aulas"
 git branch -M main
-git remote add origin https://github.com/ThatianaMattos/projetojavascriptAula.git
+git remote add origin https://Sgithub.com/ThatianaMattos/projetojavascriptAula.git
 git push -u origin main
 ````
